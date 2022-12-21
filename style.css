@@ -1,0 +1,218 @@
+.box1{
+    position: absolute;
+    width: 1440px;
+    height: 87px;
+    left: 0px;
+    top: 0px;
+    
+    background: #0d8d1e;
+
+}
+
+.box2{
+    position: absolute;
+width: 1000px;
+height: 59px;
+left: 345px;
+top: 133px;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 59px;
+}
+
+
+.box3{ 
+    
+    background-color: #C4C4C4;
+    position: absolute;
+    width: 1297px;
+    height: 794px;
+    left: 72px;
+    top: 230px;
+    z-index: 0;
+}
+
+.box4{
+position: absolute;
+width: 395px;
+height: 57px;
+left: 203px;
+top: 304px;
+background: #F1F1F1;
+border-radius: 10px;
+color: rgba(0, 0, 0, 0.8);
+z-index: 1;
+}
+
+.box5{
+position: absolute;
+width: 395px;
+height: 57px;
+left: 825px;
+top: 292px;
+background: #F1F1F1;
+border-radius: 10px;
+}
+
+.box6{
+position: absolute;
+width: 97px;
+height: 71px;
+left: 110px;
+top: 293px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+color: rgba(0, 0, 0, 0.8);
+}
+
+.box7{
+position: absolute;
+width: 155px;
+height: 47px;
+left: 654px;
+top: 292px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+color: rgba(0, 0, 0, 0.8);
+}
+
+.box8{
+    position: absolute;
+width: 95px;
+height: 47px;
+left: 110px;
+top: 395px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+color: rgba(0, 0, 0, 0.8);
+}
+
+.box9{
+    position: absolute;
+width: 395px;
+height: 57px;
+left: 236px;
+top: 407px;
+
+background: #F1F1F1;
+border-radius: 10px;
+}
+
+.box10{
+    position: absolute;
+width: 97px;
+height: 47px;
+left: 654px;
+top: 395px;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+
+.box11{
+    position: absolute;
+width: 335px;
+height: 57px;
+left: 765px;
+top: 395px;
+
+background: #F1F1F1;
+border-radius: 10px;
+}
+
+.box12{
+    position: absolute;
+width: 1000px;
+height: 47px;
+left: 1129px;
+top: 405px;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+
+.box13{
+    position: absolute;
+    width: 97px;
+    height: 57px;
+    left: 1234px;
+    top: 400px;
+    
+    background: #F1F1F1;
+    border-radius: 10px;
+}
+
+.box14{position: absolute;
+    width: 1000px;
+    height: 47px;
+    left: 110px;
+    top: 506px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.box15{
+    position: absolute;
+width: 865px;
+height: 57px;
+left: 219px;
+top: 506px;
+
+background: #F1F1F1;
+border-radius: 10px;
+}
+.box16{position: absolute;
+    width: 1000px;
+    height: 47px;
+    left: 110px;
+    top: 609px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;}
+
+.box17{
+    position: absolute;
+width: 839px;
+height: 57px;
+left: 330px;
+top: 609px;
+
+background: #F1F1F1;
+border-radius: 10px;
+}
